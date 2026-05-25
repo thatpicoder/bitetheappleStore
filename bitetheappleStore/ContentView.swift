@@ -82,6 +82,15 @@ struct ContentView: View {
             tagline: "beat the weather.",
             category: "utilities",
             version: "1.0"
+        ),
+        AppEntry(
+            name: "JSON Studio",
+            subtitle: "swiss pocket knife of json",
+            iconName: "tripweather",
+            githubURL: "https://github.com/thatpicoder/jsonstudio",
+            tagline: "json. simplified.",
+            category: "utilities",
+            version: "1.0"
         )
     ]
 
